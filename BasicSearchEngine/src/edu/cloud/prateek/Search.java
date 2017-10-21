@@ -3,7 +3,8 @@
  * Author	:	Prateek Mahendrakar
  * Details	:	Basic query search engine that takes user query and 
  * 				outputs list of documents that matches the query in 
- * 				the format 'filename TFIDFWeightSum'
+ * 				the format 'filename TFIDFWeightSum' and input to
+ * 				mapper is output of TFIDF.java
  *********************************************************************/
 
 package edu.cloud.prateek;
