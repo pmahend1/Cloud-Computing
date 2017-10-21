@@ -1,6 +1,9 @@
 # Cloud-Computing
-Hadoop Spark Hive projects
+This repository has all of my cloud computing related projects source code.  
+  * Hadoop MapReduce  
+  * Spark  
 
+## Hadoop - Map Reduce projects
 ### [1. DocWordCount](https://github.com/pmahend1/Cloud-Computing/tree/master/DocWordCount)
 DocWordCount.java outputs the word count for each distinct word in each file. Output will in the form 'word#####filename count' where '#####' is the delimiter.
 
