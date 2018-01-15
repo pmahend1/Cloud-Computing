@@ -42,3 +42,12 @@ Basic query search engine that takes user query and outputs list of documents th
   argument 1 : input directory.  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Note:** Give the output files' directory of TFIDF.java as input directory.  
   argument 2 : output directory.  
+  
+### [4. PageRank](https://github.com/pmahend1/Cloud-Computing/tree/master/PageRank)
+Given a graph of hyper-links with out-links from one web page to other this calculates page rank and outputs in descending order of the rank.
+ 
+  #### Execution : 
+  hadoop jar PageRank.jar edu.cloud.prateek.Driver argument_1 argument_2
+  
+  argument_1 : input directory.  
+  argument_2 : output directory.  
