@@ -43,7 +43,7 @@ Basic query search engine that takes user query and outputs list of documents th
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Note:** Give the output files' directory of TFIDF.java as input directory.  
   argument 2 : output directory.  
   
-### [4. PageRank](https://github.com/pmahend1/Cloud-Computing/tree/master/PageRank)
+### [5. PageRank](https://github.com/pmahend1/Cloud-Computing/tree/master/PageRank)
 Given a graph of hyper-links with out-links from one web page to other this calculates page rank and outputs in descending order of the rank.
  
   #### Execution : 
