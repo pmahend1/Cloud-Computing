@@ -51,3 +51,12 @@ Given a graph of hyper-links with out-links from one web page to other this calc
   
   argument_1 : input directory.  
   argument_2 : output directory.  
+  
+  ### [6. Linear Regression](https://github.com/pmahend1/Cloud-Computing/tree/master/Linear%20Regression)
+Python-Spark program for finding beta co-efficients of linear regression by computing summation form of closed form expression: β<sup>^</sup>=(X<sup>T</sup>X)<sup>−1</sup>X<sup>T</sup>Y 
+
+  #### Execution : 
+  spark-submit linreg.py argument_1
+  
+  argument_1 : input file name  
+   
